@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from __future__ import print_function
 listRem = "".split("\\x")
 for x in range(1, 256):
